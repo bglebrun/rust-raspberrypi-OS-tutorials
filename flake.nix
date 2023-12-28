@@ -29,7 +29,9 @@
             cargo-deny
             cargo-edit
             cargo-watch
+            cargo-binutils
             rust-analyzer
+            rustfilt
           ];
         };
       });
